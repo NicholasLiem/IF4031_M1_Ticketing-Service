@@ -1,0 +1,9 @@
+[submodule "IF4031_M1_Ticket_App"]
+	path = IF4031_M1_Ticket_App
+	url = https://github.com/NicholasLiem/IF4031_M1_Ticket_App
+[submodule "IF4031_M1_Client_App"]
+	path = IF4031_M1_Client_App
+	url = https://github.com/NicholasLiem/IF4031_M1_Client_App
+[submodule "IF4031_M1_Payment_App"]
+	path = IF4031_M1_Payment_App
+	url = https://github.com/NicholasLiem/IF4031_M1_Payment_App
